@@ -19,3 +19,5 @@ Wenn Unterstützung bei alltäglichen Aufgaben wie Einkauf oder Gartenarbeit ben
 ## Ein kurzer Einblick
 
 DiNa-Warburg entwickelt sich stetig weiter. Folgend ein paar Bilder zur DiNa-Warburg App für Android:
+
+![DiNa-Warburg Home](/images/dina-warburg-1.PNG "DiNa-Warburg Home")![](/images/dina-warburg-2.PNG)![](/images/dina-warburg-3.PNG)![](/images/dina-warburg-4.PNG)
