@@ -2,12 +2,13 @@
 title: Das DiNa-Warburg Projekt
 date: 2021-02-01T22:08:00+00:00
 hero: "/images/hero-3.jpg"
-excerpt: Creating a new website for Hopper, one of the top 4 most downloaded travel
-  apps in the U.S, along with Uber, Lyft.
+excerpt: Das DiNa-Warburg Projekt wurde ursprünglich von der Stadt Warburg in Kooperation
+  mit der Universität Kassel entwickelt um ältere Menschen besser mit ihren Bekannten
+  und deren Vertrautenkreisen zu vernetzen und sie somit im Alltag zu unterstützen.
 secret: true
 timeToRead: 5
 authors:
-- Dennis Brotzky
+- Ludwig Chen Li
 
 ---
 Das DiNa-Warburg Projekt wurde ursprünglich von der Stadt Warburg in Kooperation mit der Universität Kassel entwickelt um ältere Menschen besser mit ihren Bekannten und deren Vertrautenkreisen zu vernetzen und sie somit im Alltag zu unterstützen. 
